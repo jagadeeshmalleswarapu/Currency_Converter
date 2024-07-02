@@ -1,4 +1,4 @@
-# some_test_app
+# Currency Converter App
 
 A new Flutter project.
 
